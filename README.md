@@ -6,4 +6,4 @@
 
 ### Screens
 
-<img src"screens/projeto.png" alt=""></img>
+<img src"./screens/projeto.png" alt=""></img>
